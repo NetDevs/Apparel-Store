@@ -1,0 +1,12 @@
+D:\ApparelStore\ApparelStoreLibrary\bin\Debug\netcoreapp2.1\ApparelStoreLibrary.deps.json
+D:\ApparelStore\ApparelStoreLibrary\bin\Debug\netcoreapp2.1\ApparelStoreLibrary.dll
+D:\ApparelStore\ApparelStoreLibrary\bin\Debug\netcoreapp2.1\ApparelStoreLibrary.pdb
+D:\ApparelStore\ApparelStoreLibrary\obj\Debug\netcoreapp2.1\ApparelStoreLibrary.csprojAssemblyReference.cache
+D:\ApparelStore\ApparelStoreLibrary\obj\Debug\netcoreapp2.1\ApparelStoreLibrary.csproj.CoreCompileInputs.cache
+D:\ApparelStore\ApparelStoreLibrary\obj\Debug\netcoreapp2.1\ApparelStoreLibrary.AssemblyInfoInputs.cache
+D:\ApparelStore\ApparelStoreLibrary\obj\Debug\netcoreapp2.1\ApparelStoreLibrary.AssemblyInfo.cs
+D:\ApparelStore\ApparelStoreLibrary\obj\Debug\netcoreapp2.1\ApparelStoreLibrary.dll
+D:\ApparelStore\ApparelStoreLibrary\obj\Debug\netcoreapp2.1\ApparelStoreLibrary.pdb
+D:\ApparelStore\ApparelStoreLibrary\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\ApparelStore\ApparelStoreLibrary\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\ApparelStore\ApparelStoreLibrary\obj\Debug\netcoreapp2.1\ApparelStoreLibrary.csproj.CopyComplete

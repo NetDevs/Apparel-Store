@@ -1,0 +1,17 @@
+D:\ApparelStore\ApparelStoreWebService\bin\Debug\netcoreapp2.1\ApparelStoreWebService.dll
+D:\ApparelStore\ApparelStoreWebService\bin\Debug\netcoreapp2.1\ApparelStoreWebService.pdb
+D:\ApparelStore\ApparelStoreWebService\bin\Debug\netcoreapp2.1\ApparelStoreWebService.deps.json
+D:\ApparelStore\ApparelStoreWebService\bin\Debug\netcoreapp2.1\ApparelStoreWebService.runtimeconfig.json
+D:\ApparelStore\ApparelStoreWebService\bin\Debug\netcoreapp2.1\ApparelStoreWebService.runtimeconfig.dev.json
+D:\ApparelStore\ApparelStoreWebService\bin\Debug\netcoreapp2.1\ApparelStoreLibrary.dll
+D:\ApparelStore\ApparelStoreWebService\bin\Debug\netcoreapp2.1\ApparelStoreLibrary.pdb
+D:\ApparelStore\ApparelStoreWebService\obj\Debug\netcoreapp2.1\ApparelStoreWebService.csprojAssemblyReference.cache
+D:\ApparelStore\ApparelStoreWebService\obj\Debug\netcoreapp2.1\ApparelStoreWebService.csproj.CoreCompileInputs.cache
+D:\ApparelStore\ApparelStoreWebService\obj\Debug\netcoreapp2.1\ApparelStoreWebService.RazorAssemblyInfo.cache
+D:\ApparelStore\ApparelStoreWebService\obj\Debug\netcoreapp2.1\ApparelStoreWebService.RazorAssemblyInfo.cs
+D:\ApparelStore\ApparelStoreWebService\obj\Debug\netcoreapp2.1\ApparelStoreWebService.AssemblyInfoInputs.cache
+D:\ApparelStore\ApparelStoreWebService\obj\Debug\netcoreapp2.1\ApparelStoreWebService.AssemblyInfo.cs
+D:\ApparelStore\ApparelStoreWebService\obj\Debug\netcoreapp2.1\ApparelStoreWebService.RazorTargetAssemblyInfo.cache
+D:\ApparelStore\ApparelStoreWebService\obj\Debug\netcoreapp2.1\ApparelStoreWebService.csproj.CopyComplete
+D:\ApparelStore\ApparelStoreWebService\obj\Debug\netcoreapp2.1\ApparelStoreWebService.dll
+D:\ApparelStore\ApparelStoreWebService\obj\Debug\netcoreapp2.1\ApparelStoreWebService.pdb
