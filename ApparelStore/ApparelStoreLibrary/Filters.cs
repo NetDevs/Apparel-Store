@@ -7,6 +7,7 @@ namespace ApparelStoreLibrary
 {
     //public class ErrorFilter : ExceptionFilterAttribute
     //{
+    // git test
     //    public override void OnException(ExceptionContext context)
     //    {
     //        ViewDataDictionary dictionary = new ViewDataDictionary(new EmptyModelMetadataProvider(), new ModelStateDictionary())
